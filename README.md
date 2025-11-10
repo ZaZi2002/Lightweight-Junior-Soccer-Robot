@@ -24,6 +24,7 @@ My main responsibilities included:
 
 - Designing all electronic circuits and routing PCBs in **Altium Designer**.
 - Integrating sensors, drivers, and microcontrollers into a unified electrical system.
+- Programming and debugging some parts of the code.
 - Managing power distribution and ensuring low interference between modules.
 - Collaborating with the mechanical team to match PCB geometry with **SolidWorks** body designs.
 - Testing and debugging all electrical connections during assembly.
