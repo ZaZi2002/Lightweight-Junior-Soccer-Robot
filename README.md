@@ -1,6 +1,8 @@
 # ⚽ Junior Lightweight Soccer Robot — Team Vortex
 
-This repository contains documentation, PCB schematics, and firmware code for **Team Vortex**, our entry in **RoboCup Asia-Pacific 2018 (Kish Island)** in the **Junior Soccer Lightweight/Open** league.
+This repository contains documentation, PCB schematics for **Team Vortex**, our entry in **RoboCup Asia-Pacific 2018 (Kish Island)** in the **Junior Soccer Lightweight/Open** league.
+
+![6016912594155187577](https://github.com/user-attachments/assets/4721f05e-7c1c-4fab-94fa-f6aa625c9b9f)
 
 ---
 
