@@ -6,7 +6,7 @@ This repository contains documentation, PCB schematics for **Team Vortex**, our 
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 The **Vortex** robot is a fully autonomous soccer-playing robot designed for the **RoboCupJunior Soccer** competition.  
 It integrates advanced mechanical design, precise electronics, and intelligent control algorithms to detect the ball, navigate the field, avoid boundaries, and coordinate with a teammate during matches.
@@ -19,7 +19,16 @@ Our design emphasizes:
 
 ---
 
-## ⚡ My Role
+## Team Members
+
+- Amirhossein Zahedi
+- Sina Taheri Behrooz
+- Soroush Liaghat
+- Mohammad Ali Zamani
+
+---
+
+## My Role
 
 I served as the **PCB Designer and Electrical Engineer** on the team.  
 My main responsibilities included:
@@ -33,7 +42,7 @@ My main responsibilities included:
 
 ---
 
-## 🧩 Hardware Summary
+## Hardware Summary
 
 | Component | Model / Type | Function |
 |------------|---------------|-----------|
@@ -49,7 +58,7 @@ My main responsibilities included:
 
 ---
 
-## ⚙️ Software & Algorithms
+## Software & Algorithms
 
 - **Programming Language:** C  
 - **Compiler:** AVR-GCC  
@@ -62,7 +71,7 @@ My main responsibilities included:
   - Out-line detection and automatic avoidance.
   - Communication between two robots for role assignment (attacker/goalkeeper).
 
-### 🧠 Key Algorithms
+### Key Algorithms
 
 - **Motor Control:**  
   Implemented `Motor()` and `Move()` functions for PWM-based speed and direction control.
@@ -79,7 +88,7 @@ My main responsibilities included:
 
 ---
 
-## 🧱 Mechanical Design
+## Mechanical Design
 
 - **Material:** Fiberglass for lightweight strength.
 - **Frame:** Three circular layers (bottom, disc, top).
@@ -90,7 +99,7 @@ The robot’s 3D model was designed in **SolidWorks**, exported as DWG, and impo
 
 ---
 
-## 🧾 Innovations
+## Innovations
 
 - Custom 3-layer PCB system (main control, sensor array, and motor drivers).
 - Integration of **GY-25 gyroscope** instead of magnetic compass for noise immunity.
